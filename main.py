@@ -18,7 +18,7 @@ EPOCHS = 10
 LR = 1e-4
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-Kvasir_folder = "kvasir"
+Kvasir_folder = "kvasir-dataset"
 Remedy_csv = "remedy_mapping_dataset.csv"
 
 # Map Kvasir folders to coarse labels for remedy dataset
