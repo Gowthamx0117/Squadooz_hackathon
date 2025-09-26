@@ -1,0 +1,1001 @@
+condition_label,severity,urgency,remedy_text,recommended_specialist,confidence_threshold
+ischemia,mild,emergency,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.84
+polyp,moderate,consult,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.8
+perforation,none,monitor,Severe perforation — emergency laparotomy required,Surgery,0.87
+ischemia,none,consult,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.63
+stricture,severe,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.78
+bleeding,mild,consult,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.87
+hemorrhoids,severe,emergency,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.73
+diverticulosis,severe,emergency,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.78
+ischemia,moderate,monitor,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.78
+hemorrhoids,severe,monitor,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.68
+diverticulosis,mild,monitor,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.74
+bleeding,mild,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.71
+polyp,severe,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.72
+perforation,mild,emergency,Small perforation detected — monitor under hospital setting,Surgery,0.7
+erosion,severe,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.86
+erosion,none,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.7
+infection,moderate,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.77
+infection,severe,consult,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.85
+erosion,moderate,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.68
+obstruction,none,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.62
+stricture,mild,emergency,Severe stricture — surgical resection necessary,Surgery,0.64
+stricture,mild,emergency,Moderate stricture — endoscopic stent placement recommended,Surgery,0.77
+obstruction,moderate,monitor,Moderate obstruction — endoscopic stent placement advised,Surgery,0.71
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.61
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.62
+polyp,mild,monitor,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.63
+obstruction,moderate,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.71
+hemorrhoids,severe,emergency,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.62
+ulcer,moderate,emergency,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.63
+polyp,moderate,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.82
+ischemia,mild,emergency,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.77
+cancer,severe,emergency,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.88
+ulcer,severe,consult,Severe ulceration — admit patient for surgical management,Gastroenterology,0.64
+erosion,moderate,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.89
+erosion,severe,consult,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.87
+hemorrhoids,none,consult,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.83
+stricture,moderate,monitor,Severe stricture — surgical resection necessary,Surgery,0.88
+hemorrhoids,mild,emergency,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.64
+bleeding,moderate,monitor,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.61
+hemorrhoids,moderate,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.7
+ulcer,mild,monitor,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.79
+perforation,mild,emergency,Severe perforation — emergency laparotomy required,Surgery,0.77
+ischemia,mild,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.84
+infection,severe,monitor,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.66
+diverticulosis,mild,emergency,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.66
+obstruction,none,consult,Complete obstruction — surgical emergency,Surgery,0.83
+stricture,severe,monitor,Severe stricture — surgical resection necessary,Surgery,0.65
+bleeding,mild,emergency,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.8
+hemorrhoids,none,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.73
+ulcer,moderate,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.63
+polyp,severe,monitor,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.62
+perforation,none,consult,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.69
+ulcer,mild,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.64
+stricture,moderate,consult,Benign stricture detected — recommend balloon dilation,Surgery,0.81
+bleeding,none,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.84
+inflammation,moderate,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.72
+stricture,moderate,monitor,Benign stricture detected — recommend balloon dilation,Surgery,0.76
+bleeding,mild,emergency,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.74
+perforation,mild,emergency,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.75
+ischemia,none,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.88
+ulcer,moderate,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.67
+ischemia,mild,consult,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.81
+bleeding,mild,emergency,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.82
+hemorrhoids,mild,emergency,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.63
+obstruction,moderate,consult,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.83
+erosion,none,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.64
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.8
+bleeding,none,monitor,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.83
+obstruction,mild,emergency,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.72
+bleeding,none,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.66
+polyp,moderate,emergency,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.79
+ischemia,mild,emergency,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.79
+bleeding,none,consult,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.72
+ischemia,severe,consult,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.81
+obstruction,mild,emergency,Complete obstruction — surgical emergency,Surgery,0.88
+ulcer,mild,emergency,Severe ulceration — admit patient for surgical management,Gastroenterology,0.86
+bleeding,moderate,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.63
+cancer,moderate,consult,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.69
+ulcer,none,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.66
+ulcer,mild,emergency,Severe ulceration — admit patient for surgical management,Gastroenterology,0.88
+infection,moderate,emergency,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.64
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.66
+ulcer,none,emergency,Severe ulceration — admit patient for surgical management,Gastroenterology,0.61
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.68
+bleeding,severe,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.65
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.88
+stricture,none,monitor,Benign stricture detected — recommend balloon dilation,Surgery,0.77
+stricture,mild,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.76
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.79
+inflammation,none,consult,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.83
+infection,mild,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.65
+diverticulosis,mild,monitor,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.9
+erosion,mild,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.8
+infection,severe,emergency,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.72
+perforation,none,monitor,Severe perforation — emergency laparotomy required,Surgery,0.83
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.82
+erosion,none,emergency,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.84
+diverticulosis,moderate,monitor,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.86
+inflammation,moderate,emergency,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.81
+stricture,none,emergency,Severe stricture — surgical resection necessary,Surgery,0.74
+ischemia,moderate,emergency,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.72
+obstruction,moderate,monitor,Moderate obstruction — endoscopic stent placement advised,Surgery,0.81
+ulcer,mild,emergency,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.75
+obstruction,none,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.71
+obstruction,moderate,monitor,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.73
+obstruction,moderate,monitor,Complete obstruction — surgical emergency,Surgery,0.7
+perforation,moderate,emergency,Severe perforation — emergency laparotomy required,Surgery,0.66
+erosion,moderate,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.81
+infection,moderate,monitor,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.89
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.61
+ischemia,moderate,monitor,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.85
+diverticulosis,mild,emergency,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.72
+ischemia,mild,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.71
+erosion,none,consult,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.69
+diverticulosis,moderate,consult,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.86
+diverticulosis,mild,monitor,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.82
+ulcer,none,consult,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.83
+cancer,mild,monitor,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.65
+inflammation,moderate,emergency,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.63
+erosion,moderate,consult,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.68
+ischemia,moderate,emergency,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.66
+perforation,none,consult,Small perforation detected — monitor under hospital setting,Surgery,0.86
+perforation,none,emergency,Small perforation detected — monitor under hospital setting,Surgery,0.77
+infection,none,emergency,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.64
+stricture,moderate,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.8
+obstruction,moderate,consult,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.63
+inflammation,moderate,consult,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.89
+stricture,severe,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.83
+diverticulosis,severe,consult,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.78
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.78
+infection,none,consult,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.74
+perforation,moderate,consult,Severe perforation — emergency laparotomy required,Surgery,0.61
+polyp,mild,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.72
+obstruction,severe,emergency,Complete obstruction — surgical emergency,Surgery,0.87
+ulcer,mild,emergency,Severe ulceration — admit patient for surgical management,Gastroenterology,0.65
+inflammation,severe,monitor,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.66
+polyp,none,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.86
+hemorrhoids,moderate,consult,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.85
+erosion,mild,consult,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.68
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.68
+cancer,none,emergency,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.86
+ulcer,severe,monitor,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.88
+diverticulosis,moderate,monitor,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.71
+bleeding,mild,consult,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.78
+perforation,mild,consult,Severe perforation — emergency laparotomy required,Surgery,0.88
+diverticulosis,none,emergency,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.65
+cancer,moderate,monitor,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.73
+infection,mild,emergency,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.67
+stricture,none,consult,Benign stricture detected — recommend balloon dilation,Surgery,0.68
+stricture,severe,emergency,Moderate stricture — endoscopic stent placement recommended,Surgery,0.87
+perforation,mild,monitor,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.85
+obstruction,moderate,emergency,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.74
+infection,moderate,emergency,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.65
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.84
+polyp,none,consult,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.63
+ischemia,mild,emergency,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.89
+hemorrhoids,mild,emergency,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.8
+ischemia,severe,monitor,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.86
+ischemia,none,consult,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.9
+ischemia,severe,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.82
+erosion,moderate,consult,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.62
+inflammation,mild,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.88
+perforation,severe,consult,Severe perforation — emergency laparotomy required,Surgery,0.79
+infection,severe,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.88
+cancer,none,emergency,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.89
+erosion,mild,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.82
+obstruction,severe,monitor,Moderate obstruction — endoscopic stent placement advised,Surgery,0.82
+polyp,severe,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.71
+bleeding,severe,emergency,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.75
+bleeding,mild,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.78
+cancer,mild,emergency,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.87
+ulcer,moderate,monitor,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.74
+polyp,none,consult,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.88
+obstruction,severe,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.71
+cancer,none,emergency,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.62
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.82
+erosion,none,consult,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.64
+bleeding,moderate,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.69
+stricture,moderate,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.66
+stricture,moderate,emergency,Severe stricture — surgical resection necessary,Surgery,0.81
+ulcer,severe,consult,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.66
+ischemia,severe,emergency,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.89
+diverticulosis,mild,monitor,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.81
+cancer,severe,emergency,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.9
+stricture,severe,consult,Benign stricture detected — recommend balloon dilation,Surgery,0.82
+inflammation,mild,emergency,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.8
+infection,none,consult,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.67
+hemorrhoids,moderate,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.8
+perforation,none,consult,Severe perforation — emergency laparotomy required,Surgery,0.8
+hemorrhoids,severe,consult,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.64
+cancer,moderate,consult,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.89
+erosion,mild,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.74
+ischemia,moderate,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.78
+ulcer,none,consult,Severe ulceration — admit patient for surgical management,Gastroenterology,0.66
+erosion,mild,consult,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.65
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.85
+inflammation,none,monitor,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.89
+inflammation,mild,emergency,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.81
+ulcer,none,monitor,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.86
+obstruction,none,monitor,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.62
+stricture,none,consult,Benign stricture detected — recommend balloon dilation,Surgery,0.7
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.78
+cancer,none,monitor,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.88
+obstruction,moderate,monitor,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.77
+ischemia,severe,monitor,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.66
+inflammation,moderate,consult,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.65
+polyp,severe,emergency,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.74
+inflammation,moderate,monitor,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.73
+polyp,moderate,monitor,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.69
+ischemia,severe,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.67
+erosion,mild,monitor,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.74
+ischemia,severe,monitor,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.83
+infection,mild,monitor,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.63
+perforation,severe,consult,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.84
+hemorrhoids,severe,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.66
+diverticulosis,severe,consult,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.61
+stricture,severe,monitor,Severe stricture — surgical resection necessary,Surgery,0.71
+erosion,mild,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.73
+diverticulosis,severe,consult,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.71
+diverticulosis,moderate,consult,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.82
+stricture,mild,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.69
+bleeding,mild,consult,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.64
+cancer,moderate,emergency,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.72
+bleeding,none,emergency,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.76
+stricture,moderate,emergency,Moderate stricture — endoscopic stent placement recommended,Surgery,0.61
+diverticulosis,severe,consult,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.75
+polyp,moderate,consult,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.74
+ischemia,moderate,emergency,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.67
+hemorrhoids,mild,monitor,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.83
+infection,severe,consult,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.65
+polyp,moderate,consult,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.69
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.82
+ulcer,severe,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.89
+inflammation,mild,emergency,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.74
+inflammation,mild,consult,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.75
+cancer,mild,consult,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.75
+hemorrhoids,moderate,emergency,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.75
+bleeding,none,consult,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.73
+obstruction,severe,consult,Complete obstruction — surgical emergency,Surgery,0.89
+stricture,severe,emergency,Moderate stricture — endoscopic stent placement recommended,Surgery,0.83
+ulcer,moderate,monitor,Severe ulceration — admit patient for surgical management,Gastroenterology,0.65
+bleeding,severe,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.89
+ischemia,severe,consult,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.69
+erosion,none,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.69
+polyp,severe,monitor,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.88
+infection,severe,consult,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.82
+obstruction,none,monitor,Moderate obstruction — endoscopic stent placement advised,Surgery,0.64
+hemorrhoids,none,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.61
+infection,severe,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.62
+perforation,mild,consult,Severe perforation — emergency laparotomy required,Surgery,0.88
+bleeding,mild,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.83
+obstruction,none,emergency,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.79
+diverticulosis,none,consult,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.87
+ischemia,mild,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.81
+bleeding,severe,consult,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.8
+bleeding,mild,consult,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.87
+inflammation,moderate,emergency,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.76
+ischemia,severe,emergency,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.89
+perforation,mild,emergency,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.77
+bleeding,moderate,emergency,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.75
+diverticulosis,none,monitor,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.66
+hemorrhoids,mild,consult,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.66
+inflammation,moderate,monitor,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.81
+polyp,moderate,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.7
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.72
+perforation,mild,emergency,Small perforation detected — monitor under hospital setting,Surgery,0.67
+stricture,none,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.84
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.87
+bleeding,severe,consult,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.61
+perforation,severe,emergency,Severe perforation — emergency laparotomy required,Surgery,0.86
+diverticulosis,moderate,emergency,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.62
+stricture,none,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.88
+hemorrhoids,moderate,emergency,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.64
+polyp,mild,monitor,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.6
+diverticulosis,moderate,emergency,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.85
+polyp,severe,consult,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.72
+bleeding,severe,consult,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.82
+infection,moderate,monitor,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.65
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.7
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.89
+obstruction,none,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.68
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.86
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.76
+hemorrhoids,moderate,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.79
+stricture,severe,monitor,Moderate stricture — endoscopic stent placement recommended,Surgery,0.81
+bleeding,mild,emergency,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.77
+polyp,mild,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.64
+bleeding,none,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.61
+erosion,mild,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.77
+erosion,moderate,consult,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.82
+diverticulosis,severe,consult,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.74
+ulcer,mild,consult,Severe ulceration — admit patient for surgical management,Gastroenterology,0.64
+obstruction,mild,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.67
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.9
+hemorrhoids,severe,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.75
+erosion,none,monitor,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.63
+erosion,severe,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.71
+inflammation,mild,emergency,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.9
+hemorrhoids,severe,emergency,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.86
+cancer,none,monitor,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.79
+stricture,severe,emergency,Severe stricture — surgical resection necessary,Surgery,0.71
+ischemia,mild,emergency,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.79
+ischemia,severe,emergency,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.79
+perforation,none,emergency,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.62
+ischemia,moderate,consult,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.64
+infection,mild,emergency,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.73
+obstruction,moderate,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.8
+ulcer,severe,monitor,Severe ulceration — admit patient for surgical management,Gastroenterology,0.74
+erosion,severe,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.67
+infection,severe,monitor,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.83
+hemorrhoids,mild,emergency,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.71
+cancer,mild,monitor,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.88
+inflammation,mild,consult,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.77
+ischemia,severe,emergency,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.79
+inflammation,severe,consult,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.78
+bleeding,mild,monitor,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.84
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.6
+obstruction,none,consult,Complete obstruction — surgical emergency,Surgery,0.84
+obstruction,none,consult,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.67
+obstruction,mild,emergency,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.74
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.66
+ulcer,mild,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.77
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.72
+bleeding,mild,consult,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.73
+polyp,severe,emergency,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.63
+cancer,severe,consult,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.81
+obstruction,none,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.86
+erosion,severe,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.88
+cancer,severe,emergency,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.76
+infection,none,monitor,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.63
+polyp,mild,emergency,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.76
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.67
+stricture,mild,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.67
+hemorrhoids,mild,monitor,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.66
+perforation,moderate,emergency,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.65
+inflammation,none,emergency,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.66
+stricture,moderate,emergency,Moderate stricture — endoscopic stent placement recommended,Surgery,0.64
+perforation,mild,consult,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.75
+erosion,moderate,emergency,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.73
+cancer,moderate,emergency,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.77
+infection,severe,consult,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.89
+polyp,severe,monitor,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.79
+perforation,severe,emergency,Small perforation detected — monitor under hospital setting,Surgery,0.79
+diverticulosis,severe,emergency,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.83
+ischemia,mild,emergency,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.71
+infection,none,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.8
+diverticulosis,moderate,consult,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.81
+stricture,none,monitor,Severe stricture — surgical resection necessary,Surgery,0.7
+cancer,none,emergency,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.75
+obstruction,severe,consult,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.77
+erosion,none,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.84
+erosion,mild,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.87
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.66
+infection,none,emergency,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.8
+polyp,mild,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.68
+infection,severe,consult,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.61
+diverticulosis,severe,consult,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.69
+perforation,none,monitor,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.87
+infection,severe,monitor,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.79
+ischemia,mild,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.78
+obstruction,moderate,emergency,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.66
+bleeding,severe,emergency,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.88
+obstruction,moderate,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.65
+obstruction,mild,emergency,Complete obstruction — surgical emergency,Surgery,0.78
+perforation,none,consult,Small perforation detected — monitor under hospital setting,Surgery,0.85
+inflammation,mild,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.65
+obstruction,severe,monitor,Moderate obstruction — endoscopic stent placement advised,Surgery,0.69
+erosion,moderate,consult,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.72
+infection,severe,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.8
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.6
+polyp,mild,consult,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.84
+polyp,none,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.89
+infection,mild,consult,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.81
+perforation,mild,emergency,Small perforation detected — monitor under hospital setting,Surgery,0.64
+hemorrhoids,severe,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.75
+inflammation,severe,emergency,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.89
+stricture,mild,monitor,Severe stricture — surgical resection necessary,Surgery,0.68
+ulcer,moderate,monitor,Severe ulceration — admit patient for surgical management,Gastroenterology,0.7
+erosion,severe,consult,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.87
+inflammation,severe,emergency,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.62
+infection,mild,monitor,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.61
+inflammation,severe,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.79
+polyp,moderate,emergency,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.68
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.81
+obstruction,severe,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.61
+inflammation,severe,monitor,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.9
+stricture,severe,emergency,Moderate stricture — endoscopic stent placement recommended,Surgery,0.65
+inflammation,moderate,monitor,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.85
+diverticulosis,moderate,emergency,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.82
+perforation,severe,consult,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.9
+infection,moderate,consult,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.87
+perforation,moderate,emergency,Severe perforation — emergency laparotomy required,Surgery,0.63
+ulcer,mild,monitor,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.65
+inflammation,moderate,consult,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.65
+obstruction,severe,monitor,Complete obstruction — surgical emergency,Surgery,0.89
+diverticulosis,moderate,consult,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.68
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.87
+infection,moderate,consult,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.76
+inflammation,moderate,monitor,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.71
+stricture,moderate,emergency,Severe stricture — surgical resection necessary,Surgery,0.67
+hemorrhoids,moderate,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.75
+polyp,severe,consult,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.68
+bleeding,mild,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.88
+ischemia,moderate,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.69
+bleeding,moderate,emergency,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.86
+diverticulosis,severe,monitor,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.78
+polyp,severe,monitor,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.79
+polyp,severe,monitor,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.88
+cancer,moderate,monitor,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.88
+erosion,severe,emergency,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.76
+stricture,mild,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.83
+hemorrhoids,severe,consult,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.61
+infection,moderate,consult,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.61
+bleeding,mild,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.81
+infection,severe,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.72
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.8
+bleeding,none,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.9
+polyp,severe,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.66
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.67
+infection,moderate,consult,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.71
+ulcer,severe,emergency,Severe ulceration — admit patient for surgical management,Gastroenterology,0.75
+ischemia,mild,monitor,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.84
+cancer,mild,emergency,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.67
+obstruction,none,monitor,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.79
+hemorrhoids,none,emergency,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.76
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.9
+perforation,moderate,emergency,Small perforation detected — monitor under hospital setting,Surgery,0.85
+stricture,mild,emergency,Severe stricture — surgical resection necessary,Surgery,0.71
+obstruction,mild,emergency,Complete obstruction — surgical emergency,Surgery,0.86
+erosion,severe,monitor,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.84
+stricture,moderate,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.86
+erosion,severe,monitor,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.88
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.67
+perforation,mild,consult,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.78
+obstruction,mild,consult,Complete obstruction — surgical emergency,Surgery,0.87
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.65
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.81
+ischemia,none,monitor,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.8
+cancer,none,consult,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.67
+polyp,mild,monitor,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.67
+ulcer,mild,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.77
+obstruction,severe,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.79
+cancer,mild,emergency,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.72
+inflammation,moderate,emergency,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.68
+hemorrhoids,mild,consult,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.74
+infection,severe,emergency,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.6
+cancer,mild,emergency,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.8
+bleeding,mild,consult,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.76
+ischemia,none,emergency,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.64
+inflammation,mild,monitor,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.69
+ulcer,mild,consult,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.74
+obstruction,severe,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.89
+diverticulosis,mild,monitor,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.88
+perforation,moderate,monitor,Severe perforation — emergency laparotomy required,Surgery,0.67
+diverticulosis,mild,consult,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.78
+cancer,moderate,monitor,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.6
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.64
+polyp,none,monitor,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.81
+polyp,moderate,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.84
+ischemia,mild,consult,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.89
+ulcer,mild,consult,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.72
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.63
+polyp,mild,emergency,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.69
+obstruction,moderate,emergency,Complete obstruction — surgical emergency,Surgery,0.66
+perforation,mild,monitor,Severe perforation — emergency laparotomy required,Surgery,0.65
+inflammation,moderate,monitor,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.69
+hemorrhoids,none,consult,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.78
+erosion,moderate,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.69
+diverticulosis,moderate,consult,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.89
+obstruction,moderate,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.85
+diverticulosis,mild,emergency,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.63
+erosion,moderate,monitor,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.64
+diverticulosis,moderate,emergency,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.7
+cancer,moderate,monitor,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.8
+ischemia,mild,consult,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.89
+diverticulosis,severe,consult,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.81
+inflammation,mild,emergency,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.75
+inflammation,mild,emergency,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.6
+diverticulosis,mild,consult,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.63
+polyp,moderate,consult,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.79
+stricture,none,emergency,Moderate stricture — endoscopic stent placement recommended,Surgery,0.67
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.87
+obstruction,mild,emergency,Complete obstruction — surgical emergency,Surgery,0.71
+ischemia,moderate,emergency,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.82
+bleeding,severe,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.6
+hemorrhoids,moderate,consult,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.68
+ulcer,none,consult,Severe ulceration — admit patient for surgical management,Gastroenterology,0.72
+inflammation,severe,emergency,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.84
+perforation,none,emergency,Severe perforation — emergency laparotomy required,Surgery,0.81
+bleeding,severe,consult,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.79
+infection,none,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.89
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.74
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.84
+ulcer,none,consult,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.86
+polyp,severe,consult,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.72
+erosion,severe,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.85
+obstruction,none,consult,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.72
+hemorrhoids,none,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.79
+cancer,moderate,emergency,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.66
+infection,none,monitor,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.62
+erosion,severe,consult,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.68
+cancer,mild,monitor,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.65
+inflammation,none,monitor,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.74
+perforation,mild,monitor,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.86
+bleeding,mild,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.89
+cancer,mild,monitor,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.88
+cancer,mild,emergency,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.65
+infection,mild,monitor,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.68
+hemorrhoids,mild,emergency,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.7
+infection,moderate,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.63
+infection,severe,consult,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.76
+obstruction,moderate,monitor,Complete obstruction — surgical emergency,Surgery,0.64
+perforation,moderate,monitor,Severe perforation — emergency laparotomy required,Surgery,0.68
+polyp,severe,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.85
+obstruction,severe,monitor,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.69
+obstruction,none,monitor,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.82
+stricture,moderate,emergency,Severe stricture — surgical resection necessary,Surgery,0.77
+ulcer,severe,consult,Severe ulceration — admit patient for surgical management,Gastroenterology,0.83
+ischemia,none,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.73
+stricture,severe,monitor,Benign stricture detected — recommend balloon dilation,Surgery,0.62
+obstruction,severe,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.7
+polyp,mild,monitor,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.87
+diverticulosis,moderate,emergency,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.81
+obstruction,mild,emergency,Complete obstruction — surgical emergency,Surgery,0.7
+infection,none,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.74
+inflammation,mild,monitor,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.78
+obstruction,moderate,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.71
+ulcer,mild,emergency,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.77
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.65
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.67
+perforation,moderate,emergency,Severe perforation — emergency laparotomy required,Surgery,0.8
+stricture,severe,monitor,Moderate stricture — endoscopic stent placement recommended,Surgery,0.73
+stricture,none,monitor,Benign stricture detected — recommend balloon dilation,Surgery,0.8
+perforation,none,emergency,Severe perforation — emergency laparotomy required,Surgery,0.72
+perforation,mild,monitor,Severe perforation — emergency laparotomy required,Surgery,0.77
+ischemia,none,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.76
+diverticulosis,mild,emergency,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.61
+stricture,moderate,monitor,Benign stricture detected — recommend balloon dilation,Surgery,0.64
+ischemia,severe,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.86
+perforation,moderate,consult,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.66
+obstruction,none,consult,Complete obstruction — surgical emergency,Surgery,0.82
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.8
+polyp,mild,emergency,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.79
+hemorrhoids,severe,monitor,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.79
+inflammation,moderate,monitor,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.9
+inflammation,none,consult,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.68
+hemorrhoids,mild,consult,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.9
+ulcer,none,consult,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.67
+cancer,none,consult,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.85
+cancer,severe,emergency,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.62
+polyp,mild,emergency,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.87
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.66
+polyp,mild,monitor,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.7
+ischemia,severe,emergency,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.66
+bleeding,severe,consult,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.77
+stricture,moderate,emergency,Severe stricture — surgical resection necessary,Surgery,0.62
+erosion,mild,monitor,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.61
+ulcer,none,monitor,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.86
+obstruction,severe,consult,Complete obstruction — surgical emergency,Surgery,0.88
+infection,severe,consult,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.89
+perforation,none,emergency,Small perforation detected — monitor under hospital setting,Surgery,0.82
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.78
+diverticulosis,moderate,consult,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.68
+bleeding,moderate,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.82
+polyp,mild,emergency,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.67
+inflammation,mild,monitor,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.84
+diverticulosis,mild,monitor,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.62
+erosion,moderate,emergency,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.84
+erosion,moderate,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.75
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.89
+cancer,none,consult,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.83
+ulcer,none,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.74
+inflammation,moderate,emergency,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.7
+hemorrhoids,severe,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.84
+erosion,mild,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.87
+stricture,severe,consult,Severe stricture — surgical resection necessary,Surgery,0.85
+infection,mild,monitor,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.77
+ulcer,severe,emergency,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.83
+obstruction,mild,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.77
+ischemia,none,monitor,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.78
+diverticulosis,moderate,emergency,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.62
+perforation,moderate,emergency,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.79
+infection,mild,consult,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.73
+obstruction,mild,monitor,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.68
+cancer,none,emergency,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.69
+stricture,none,emergency,Severe stricture — surgical resection necessary,Surgery,0.61
+hemorrhoids,severe,monitor,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.84
+stricture,moderate,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.62
+cancer,moderate,consult,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.74
+bleeding,moderate,monitor,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.78
+ulcer,none,monitor,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.69
+erosion,mild,monitor,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.63
+inflammation,severe,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.87
+ulcer,moderate,monitor,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.86
+erosion,moderate,emergency,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.9
+stricture,mild,monitor,Benign stricture detected — recommend balloon dilation,Surgery,0.6
+obstruction,moderate,consult,Complete obstruction — surgical emergency,Surgery,0.63
+erosion,severe,consult,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.61
+ischemia,severe,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.8
+stricture,severe,emergency,Severe stricture — surgical resection necessary,Surgery,0.86
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.7
+ulcer,none,emergency,Severe ulceration — admit patient for surgical management,Gastroenterology,0.75
+inflammation,moderate,emergency,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.73
+hemorrhoids,severe,consult,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.83
+erosion,severe,consult,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.81
+bleeding,severe,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.63
+polyp,none,consult,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.88
+hemorrhoids,severe,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.68
+inflammation,severe,monitor,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.89
+ulcer,none,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.87
+stricture,mild,monitor,Severe stricture — surgical resection necessary,Surgery,0.69
+hemorrhoids,moderate,monitor,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.69
+hemorrhoids,mild,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.82
+obstruction,moderate,monitor,Complete obstruction — surgical emergency,Surgery,0.84
+infection,moderate,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.81
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.9
+stricture,moderate,monitor,Moderate stricture — endoscopic stent placement recommended,Surgery,0.85
+erosion,moderate,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.85
+perforation,mild,emergency,Small perforation detected — monitor under hospital setting,Surgery,0.84
+bleeding,mild,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.63
+stricture,severe,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.66
+obstruction,mild,monitor,Complete obstruction — surgical emergency,Surgery,0.88
+polyp,mild,monitor,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.83
+ischemia,moderate,monitor,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.62
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.85
+infection,mild,monitor,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.73
+bleeding,none,consult,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.81
+erosion,moderate,consult,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.77
+hemorrhoids,moderate,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.67
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.67
+ischemia,severe,consult,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.73
+obstruction,mild,emergency,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.81
+obstruction,mild,consult,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.68
+diverticulosis,severe,monitor,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.74
+ischemia,severe,consult,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.62
+obstruction,moderate,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.63
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.62
+ulcer,mild,consult,Severe ulceration — admit patient for surgical management,Gastroenterology,0.64
+erosion,mild,emergency,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.72
+diverticulosis,none,monitor,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.63
+inflammation,severe,consult,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.82
+hemorrhoids,severe,monitor,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.87
+ulcer,mild,consult,Severe ulceration — admit patient for surgical management,Gastroenterology,0.64
+bleeding,mild,emergency,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.81
+perforation,none,monitor,Severe perforation — emergency laparotomy required,Surgery,0.75
+ulcer,severe,consult,Severe ulceration — admit patient for surgical management,Gastroenterology,0.73
+bleeding,none,consult,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.79
+bleeding,severe,consult,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.8
+ischemia,moderate,emergency,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.76
+diverticulosis,none,monitor,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.79
+perforation,none,monitor,Small perforation detected — monitor under hospital setting,Surgery,0.85
+erosion,mild,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.83
+ischemia,none,consult,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.61
+hemorrhoids,severe,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.79
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.83
+obstruction,mild,emergency,Complete obstruction — surgical emergency,Surgery,0.72
+inflammation,severe,consult,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.86
+ischemia,moderate,emergency,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.86
+ulcer,none,consult,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.83
+ulcer,mild,monitor,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.65
+hemorrhoids,mild,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.88
+polyp,severe,monitor,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.76
+polyp,none,emergency,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.61
+erosion,mild,emergency,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.75
+bleeding,severe,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.66
+ischemia,moderate,emergency,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.76
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.67
+ulcer,mild,consult,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.77
+inflammation,mild,emergency,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.7
+inflammation,moderate,emergency,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.62
+ulcer,severe,consult,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.9
+bleeding,mild,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.6
+obstruction,none,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.75
+stricture,mild,monitor,Moderate stricture — endoscopic stent placement recommended,Surgery,0.82
+diverticulosis,moderate,consult,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.87
+ulcer,moderate,monitor,Severe ulceration — admit patient for surgical management,Gastroenterology,0.7
+bleeding,mild,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.77
+perforation,moderate,emergency,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.83
+hemorrhoids,mild,consult,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.83
+ischemia,moderate,consult,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.82
+ischemia,severe,emergency,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.77
+erosion,severe,monitor,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.65
+obstruction,mild,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.63
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.79
+cancer,moderate,consult,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.75
+erosion,mild,monitor,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.63
+ulcer,severe,emergency,Severe ulceration — admit patient for surgical management,Gastroenterology,0.87
+diverticulosis,mild,emergency,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.82
+stricture,moderate,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.67
+obstruction,severe,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.79
+ischemia,mild,consult,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.81
+stricture,severe,consult,Benign stricture detected — recommend balloon dilation,Surgery,0.71
+bleeding,mild,consult,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.88
+bleeding,moderate,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.76
+stricture,none,monitor,Benign stricture detected — recommend balloon dilation,Surgery,0.67
+cancer,severe,consult,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.71
+ischemia,severe,consult,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.89
+perforation,severe,monitor,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.67
+diverticulosis,moderate,monitor,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.89
+obstruction,severe,monitor,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.88
+perforation,severe,emergency,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.69
+ischemia,none,consult,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.89
+perforation,none,emergency,Severe perforation — emergency laparotomy required,Surgery,0.89
+erosion,none,monitor,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.84
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.88
+inflammation,none,consult,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.7
+obstruction,severe,emergency,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.72
+infection,mild,consult,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.67
+ischemia,mild,monitor,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.72
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.79
+cancer,none,consult,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.72
+hemorrhoids,none,consult,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.77
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.78
+ischemia,moderate,consult,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.75
+perforation,moderate,emergency,Small perforation detected — monitor under hospital setting,Surgery,0.88
+infection,moderate,consult,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.89
+cancer,moderate,monitor,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.73
+ischemia,mild,monitor,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.77
+obstruction,mild,emergency,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.73
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.85
+perforation,severe,emergency,Small perforation detected — monitor under hospital setting,Surgery,0.63
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.75
+inflammation,mild,emergency,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.73
+perforation,mild,monitor,Small perforation detected — monitor under hospital setting,Surgery,0.66
+diverticulosis,severe,consult,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.77
+cancer,severe,monitor,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.66
+diverticulosis,moderate,emergency,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.86
+inflammation,none,emergency,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.76
+erosion,mild,emergency,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.72
+stricture,severe,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.83
+perforation,severe,monitor,Severe perforation — emergency laparotomy required,Surgery,0.64
+cancer,moderate,emergency,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.71
+inflammation,mild,emergency,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.82
+cancer,severe,emergency,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.65
+bleeding,severe,monitor,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.69
+hemorrhoids,severe,monitor,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.84
+perforation,mild,consult,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.67
+ischemia,mild,monitor,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.7
+bleeding,mild,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.78
+erosion,mild,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.8
+stricture,severe,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.9
+inflammation,moderate,emergency,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.84
+stricture,moderate,consult,Severe stricture — surgical resection necessary,Surgery,0.61
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.79
+bleeding,severe,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.69
+bleeding,severe,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.87
+ischemia,mild,consult,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.8
+stricture,mild,monitor,Benign stricture detected — recommend balloon dilation,Surgery,0.81
+bleeding,severe,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.83
+erosion,severe,emergency,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.78
+ulcer,moderate,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.75
+bleeding,mild,consult,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.66
+obstruction,severe,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.68
+infection,severe,monitor,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.86
+stricture,none,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.71
+polyp,severe,emergency,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.64
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.89
+perforation,severe,emergency,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.77
+infection,moderate,consult,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.79
+infection,moderate,consult,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.71
+obstruction,moderate,monitor,Moderate obstruction — endoscopic stent placement advised,Surgery,0.81
+diverticulosis,mild,monitor,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.83
+polyp,moderate,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.79
+stricture,moderate,consult,Benign stricture detected — recommend balloon dilation,Surgery,0.84
+bleeding,moderate,consult,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.84
+ulcer,none,monitor,Severe ulceration — admit patient for surgical management,Gastroenterology,0.74
+erosion,mild,emergency,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.79
+stricture,severe,consult,Benign stricture detected — recommend balloon dilation,Surgery,0.73
+hemorrhoids,none,consult,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.66
+bleeding,mild,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.74
+stricture,none,monitor,Benign stricture detected — recommend balloon dilation,Surgery,0.76
+perforation,none,consult,Severe perforation — emergency laparotomy required,Surgery,0.65
+obstruction,moderate,emergency,Complete obstruction — surgical emergency,Surgery,0.71
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.84
+stricture,none,emergency,Moderate stricture — endoscopic stent placement recommended,Surgery,0.78
+infection,none,emergency,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.88
+ischemia,severe,monitor,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.8
+ulcer,none,consult,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.77
+diverticulosis,none,emergency,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.77
+erosion,severe,emergency,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.82
+obstruction,severe,monitor,Moderate obstruction — endoscopic stent placement advised,Surgery,0.71
+inflammation,mild,emergency,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.89
+perforation,moderate,emergency,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.83
+cancer,none,consult,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.81
+hemorrhoids,mild,monitor,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.82
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.64
+obstruction,severe,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.76
+inflammation,severe,consult,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.87
+ischemia,mild,consult,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.84
+infection,none,consult,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.65
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.9
+bleeding,moderate,monitor,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.66
+bleeding,moderate,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.84
+perforation,mild,emergency,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.7
+ischemia,severe,consult,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.68
+hemorrhoids,none,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.69
+inflammation,severe,emergency,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.77
+obstruction,mild,emergency,Complete obstruction — surgical emergency,Surgery,0.63
+erosion,none,emergency,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.87
+erosion,mild,monitor,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.7
+cancer,moderate,consult,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.73
+inflammation,moderate,consult,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.79
+stricture,mild,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.67
+infection,severe,monitor,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.78
+inflammation,mild,consult,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.89
+inflammation,severe,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.82
+hemorrhoids,mild,monitor,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.79
+polyp,severe,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.88
+stricture,moderate,monitor,Moderate stricture — endoscopic stent placement recommended,Surgery,0.8
+inflammation,severe,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.62
+obstruction,severe,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.86
+cancer,mild,emergency,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.88
+erosion,mild,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.89
+erosion,severe,monitor,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.68
+inflammation,none,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.62
+perforation,none,consult,Small perforation detected — monitor under hospital setting,Surgery,0.86
+bleeding,mild,monitor,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.68
+ulcer,severe,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.81
+ischemia,severe,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.84
+polyp,severe,consult,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.79
+erosion,severe,monitor,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.61
+obstruction,none,emergency,Complete obstruction — surgical emergency,Surgery,0.88
+hemorrhoids,mild,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.82
+ischemia,mild,monitor,Severe ischemia — consider urgent surgical revascularization,Cardiology,0.62
+stricture,mild,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.86
+polyp,mild,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.88
+polyp,none,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.77
+polyp,mild,monitor,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.76
+obstruction,mild,monitor,Complete obstruction — surgical emergency,Surgery,0.86
+stricture,severe,emergency,Severe stricture — surgical resection necessary,Surgery,0.76
+inflammation,mild,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.88
+diverticulosis,mild,monitor,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.88
+bleeding,severe,emergency,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.61
+infection,none,emergency,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.65
+bleeding,moderate,monitor,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.9
+perforation,severe,consult,Severe perforation — emergency laparotomy required,Surgery,0.8
+hemorrhoids,severe,monitor,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.7
+cancer,none,emergency,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.74
+obstruction,moderate,emergency,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.72
+polyp,moderate,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.89
+perforation,moderate,monitor,Severe perforation — emergency laparotomy required,Surgery,0.69
+infection,severe,consult,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.67
+hemorrhoids,mild,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.89
+stricture,moderate,consult,Severe stricture — surgical resection necessary,Surgery,0.74
+perforation,severe,monitor,Severe perforation — emergency laparotomy required,Surgery,0.83
+cancer,none,monitor,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.69
+inflammation,mild,emergency,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.77
+stricture,mild,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.83
+erosion,severe,consult,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.84
+polyp,severe,monitor,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.87
+erosion,moderate,emergency,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.89
+diverticulosis,severe,consult,Diverticulosis detected — recommend high-fiber diet and regular monitoring,Gastroenterology,0.77
+ulcer,moderate,emergency,Severe ulceration — admit patient for surgical management,Gastroenterology,0.89
+bleeding,none,consult,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.79
+bleeding,moderate,consult,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.76
+bleeding,severe,consult,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.83
+obstruction,moderate,consult,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.62
+hemorrhoids,severe,monitor,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.63
+obstruction,severe,consult,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.87
+inflammation,moderate,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.78
+cancer,mild,monitor,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.67
+ischemia,moderate,emergency,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.72
+inflammation,moderate,monitor,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.84
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.7
+infection,none,emergency,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.88
+infection,none,monitor,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.7
+polyp,mild,consult,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.78
+ulcer,none,consult,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.83
+polyp,severe,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.89
+infection,none,emergency,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.86
+ulcer,none,emergency,Severe ulceration — admit patient for surgical management,Gastroenterology,0.8
+infection,mild,monitor,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.6
+stricture,none,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.62
+ischemia,mild,consult,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.72
+obstruction,mild,emergency,Complete obstruction — surgical emergency,Surgery,0.72
+ischemia,moderate,monitor,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.65
+ulcer,none,consult,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.87
+obstruction,moderate,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.82
+polyp,severe,emergency,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.63
+bleeding,severe,consult,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.72
+erosion,mild,monitor,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.78
+polyp,none,consult,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.87
+inflammation,none,consult,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.87
+ulcer,mild,monitor,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.85
+bleeding,severe,consult,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.72
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.69
+stricture,none,monitor,Severe stricture — surgical resection necessary,Surgery,0.72
+erosion,severe,monitor,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.73
+hemorrhoids,moderate,emergency,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.81
+bleeding,severe,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.79
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.62
+infection,none,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.75
+stricture,mild,consult,Severe stricture — surgical resection necessary,Surgery,0.8
+ulcer,none,consult,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.77
+hemorrhoids,none,monitor,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.68
+bleeding,mild,emergency,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.84
+hemorrhoids,severe,monitor,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.87
+hemorrhoids,mild,consult,Moderate hemorrhoids — recommend band ligation procedure,Colorectal,0.61
+bleeding,none,emergency,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.86
+diverticulosis,none,monitor,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.78
+obstruction,mild,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.75
+hemorrhoids,mild,emergency,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.71
+infection,severe,monitor,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.8
+inflammation,severe,emergency,Mild mucosal inflammation — recommend dietary modifications and follow-up,Gastroenterology,0.77
+ulcer,severe,consult,Severe ulceration — admit patient for surgical management,Gastroenterology,0.74
+stricture,moderate,consult,Severe stricture — surgical resection necessary,Surgery,0.87
+erosion,none,emergency,Moderate erosion — prescribe PPIs and schedule follow-up,Gastroenterology,0.61
+polyp,severe,consult,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.6
+hemorrhoids,severe,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.9
+cancer,severe,monitor,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.76
+bleeding,mild,consult,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.62
+infection,none,consult,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.85
+inflammation,none,consult,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.76
+diverticulosis,mild,consult,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.75
+stricture,none,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.72
+hemorrhoids,moderate,monitor,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.76
+polyp,mild,monitor,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.69
+obstruction,mild,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.63
+polyp,none,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.77
+bleeding,severe,consult,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.68
+inflammation,none,monitor,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.84
+diverticulosis,mild,emergency,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.85
+perforation,moderate,monitor,Small perforation detected — monitor under hospital setting,Surgery,0.61
+perforation,none,monitor,Small perforation detected — monitor under hospital setting,Surgery,0.87
+inflammation,moderate,monitor,Moderate inflammation — initiate corticosteroid therapy and consult GI,Gastroenterology,0.81
+inflammation,moderate,monitor,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.76
+cancer,severe,emergency,Suspicious lesion detected — recommend biopsy and oncology referral,Oncology,0.81
+infection,moderate,consult,Severe infection — hospital admission for IV antibiotics,InfectiousDisease,0.88
+hemorrhoids,none,consult,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.85
+polyp,none,emergency,Small polyp detected — schedule surveillance colonoscopy and biopsy if grows,Gastroenterology,0.83
+ulcer,moderate,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.68
+ischemia,mild,emergency,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.75
+obstruction,moderate,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.76
+ulcer,none,emergency,Severe ulceration — admit patient for surgical management,Gastroenterology,0.77
+obstruction,mild,emergency,Moderate obstruction — endoscopic stent placement advised,Surgery,0.89
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.77
+hemorrhoids,severe,monitor,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.88
+obstruction,none,monitor,Moderate obstruction — endoscopic stent placement advised,Surgery,0.64
+obstruction,severe,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.89
+diverticulosis,mild,monitor,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.69
+bleeding,none,consult,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.75
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.61
+ischemia,mild,emergency,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.62
+ulcer,severe,monitor,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.8
+normal,none,monitor,No abnormality detected — routine follow-up as per standard care,PrimaryCare,0.89
+perforation,severe,consult,Severe perforation — emergency laparotomy required,Surgery,0.83
+polyp,severe,emergency,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.61
+obstruction,moderate,monitor,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.86
+ulcer,moderate,emergency,Mild ulcer detected — prescribe proton pump inhibitors and monitor healing,Gastroenterology,0.76
+hemorrhoids,severe,consult,Small hemorrhoids detected — recommend topical treatment and lifestyle modification,Colorectal,0.68
+bleeding,severe,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.72
+polyp,moderate,consult,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.89
+ulcer,severe,consult,Severe ulceration — admit patient for surgical management,Gastroenterology,0.71
+normal,none,monitor,Normal examination — no intervention required,PrimaryCare,0.83
+perforation,mild,monitor,Moderate perforation — initiate antibiotics and surgical consult,Surgery,0.64
+bleeding,mild,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.83
+obstruction,mild,consult,Complete obstruction — surgical emergency,Surgery,0.62
+bleeding,severe,emergency,Gastrointestinal bleeding suspected — consult GI urgently,Surgery,0.7
+stricture,mild,emergency,Severe stricture — surgical resection necessary,Surgery,0.76
+erosion,none,consult,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.71
+infection,moderate,monitor,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.76
+obstruction,severe,emergency,Complete obstruction — surgical emergency,Surgery,0.9
+diverticulosis,severe,monitor,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.69
+ulcer,moderate,monitor,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.7
+infection,moderate,emergency,Minor infection signs — prescribe antibiotics and follow-up,InfectiousDisease,0.81
+polyp,moderate,consult,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.84
+erosion,moderate,consult,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.7
+stricture,mild,consult,Moderate stricture — endoscopic stent placement recommended,Surgery,0.66
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.67
+polyp,mild,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.61
+obstruction,none,consult,Partial obstruction detected — recommend dietary modification and monitoring,Surgery,0.77
+polyp,severe,emergency,Polyp with suspicious features — recommend biopsy & histopathology; consult GI,Gastroenterology,0.61
+bleeding,mild,monitor,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.8
+erosion,none,monitor,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.8
+diverticulosis,none,monitor,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.73
+erosion,none,consult,Minor erosion detected — recommend antacids and dietary adjustments,Gastroenterology,0.69
+stricture,mild,emergency,Moderate stricture — endoscopic stent placement recommended,Surgery,0.89
+bleeding,severe,consult,Active bleeding detected — consider urgent endoscopic hemostasis; contact surgical team immediately,Surgery,0.74
+inflammation,moderate,emergency,Severe colitis — consider hospitalization and IV therapy,Gastroenterology,0.61
+infection,none,emergency,Confirmed infection — initiate targeted antimicrobial therapy,InfectiousDisease,0.7
+erosion,mild,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.86
+bleeding,moderate,monitor,Minor bleeding detected — monitor closely and review hemoglobin levels,Surgery,0.88
+normal,none,monitor,Healthy mucosa — continue preventive care,PrimaryCare,0.74
+diverticulosis,none,monitor,Complicated diverticulosis — surgical consult advised,Gastroenterology,0.82
+polyp,moderate,monitor,Multiple polyps observed — recommend colon resection in consultation with GI surgeon,Gastroenterology,0.77
+cancer,mild,monitor,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.64
+ischemia,severe,monitor,Moderate ischemia — cardiology consult for possible intervention,Cardiology,0.79
+perforation,mild,emergency,Severe perforation — emergency laparotomy required,Surgery,0.62
+ulcer,moderate,emergency,Ulcer with bleeding — recommend biopsy & histopathology; consult GI,Gastroenterology,0.74
+erosion,none,emergency,Severe erosive gastritis — urgent endoscopy recommended,Gastroenterology,0.71
+ischemia,severe,monitor,Mild ischemic changes — initiate antiplatelet therapy,Cardiology,0.63
+cancer,mild,emergency,Advanced cancer stage — palliative care and oncology-led management,Oncology,0.75
+cancer,severe,monitor,Confirmed carcinoma — plan chemotherapy and surgical consult,Oncology,0.89
+obstruction,none,emergency,Complete obstruction — surgical emergency,Surgery,0.64
+stricture,severe,emergency,Benign stricture detected — recommend balloon dilation,Surgery,0.68
+stricture,severe,emergency,Severe stricture — surgical resection necessary,Surgery,0.72
+diverticulosis,severe,emergency,Symptomatic diverticulosis — consult GI for potential intervention,Gastroenterology,0.62
+stricture,severe,consult,Severe stricture — surgical resection necessary,Surgery,0.73
+obstruction,severe,consult,Moderate obstruction — endoscopic stent placement advised,Surgery,0.72
+hemorrhoids,none,monitor,Severe hemorrhoids — surgical hemorrhoidectomy indicated,Colorectal,0.81
