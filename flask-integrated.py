@@ -17,7 +17,7 @@ app = Flask(__name__)
 # --------------------------
 # Model + CSV Loading
 # --------------------------
-MODEL_PATH = "kvasir_coarse_model.pth"
+MODEL_PATH = "C:\\Users\\go1wt\OneDrive\\Desktop\\project\\Squadooz_hackathon\\Medical vision system\\kvasir_coarse_model.pth"
 CSV_PATH = "remedy_mapping_dataset.csv"
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
