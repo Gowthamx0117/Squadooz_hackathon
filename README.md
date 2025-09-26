@@ -1,1 +1,0 @@
-# Squadooz_hackathon
