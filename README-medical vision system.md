@@ -28,9 +28,10 @@ medical-vision-system/
 
 ## 🔧 Installation & Setup
 1. Clone this repository:
-   ```bash
+```bash
    git clone https://github.com/Gowthamx0117/medical-vision-system.git
    cd medical-vision-system## 🔧 Installation & Setup
+```
 
 ### 1. Create a virtual environment (recommended)
   ```bash
@@ -55,18 +56,20 @@ medical-vision-system/
    Click 📸 Capture & Analyze.
 
 ###   The app will process the captured frame and show:
+```bash
    ✅ Condition
    📊 Confidence
    ⚠️ Severity
    🚑 Urgency
    💊 Remedy
    👨‍⚕️ Specialist Recommendation
-
+```
 ##   📌 Future Improvements
+```bash   
    🔬 Integrate a CNN-based medical image classifier
    🗂️ Store analysis results in a database
    🌐 Add user authentication and patient history
    📱 Deploy on cloud with mobile access
-   
+ ```  
    👨‍💻 Author
    Developed by Gowtham 🚀
