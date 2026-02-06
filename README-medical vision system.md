@@ -20,11 +20,12 @@ An AI-powered **Flask web app** that captures **real-time camera feed**, analyze
 ---
 
 ## 📂 Project Structure
+```bash
 medical-vision-system/
 ├── app.py # Main Flask application
 ├── README.md # Project documentation
 └── requirements.txt (optional - list of dependencies)
-
+```
 
 ## 🔧 Installation & Setup
 1. Clone this repository:
